@@ -18,9 +18,9 @@ Determining the factors influencing churn
 # Methodology
 ## Data Sources and variables
 Data was sourced from www.kaggle.com
-
 ![image](https://github.com/JohnOlufemi/CHURN-ANALYSIS-A-SYSTEMATIC-APPROACH-TO-CUSTOMER-RETENTION-USING-SAS/assets/104203741/11834f1f-e4fb-4a29-9c52-f1137891ee10)
 
-
+# Exploratory Data Analysis
+![image](https://github.com/JohnOlufemi/CHURN-ANALYSIS-A-SYSTEMATIC-APPROACH-TO-CUSTOMER-RETENTION-USING-SAS/assets/104203741/8916d33c-ce14-4f2b-bf00-0bfd203f72f4)
 
 
