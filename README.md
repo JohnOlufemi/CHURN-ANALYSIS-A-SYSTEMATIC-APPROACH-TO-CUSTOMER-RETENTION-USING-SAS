@@ -1,9 +1,5 @@
 # Churn Analysis: A Systematic Approach to Customer Retention Using SAS
 
-Analytical tools: Exploratory data analysis, Basic statistics, chi-square test, two-sample t-test, ANOVA and correlation
-
-# Executive Summary and Introduction
-
 Churn, also known as attrition rate, is one of the biggest challenges in businesses, especially telecommunications. 
 
 ## Business Goal
@@ -16,11 +12,16 @@ Investigating the relationship between sociodemographic attributes, customer acc
 Determining the factors influencing churn
 
 # Methodology
-## Data Sources and variables
 Data was sourced from www.kaggle.com
 ![image](https://github.com/JohnOlufemi/CHURN-ANALYSIS-A-SYSTEMATIC-APPROACH-TO-CUSTOMER-RETENTION-USING-SAS/assets/104203741/11834f1f-e4fb-4a29-9c52-f1137891ee10)
 
-# Exploratory Data Analysis
-![image](https://github.com/JohnOlufemi/CHURN-ANALYSIS-A-SYSTEMATIC-APPROACH-TO-CUSTOMER-RETENTION-USING-SAS/assets/104203741/8916d33c-ce14-4f2b-bf00-0bfd203f72f4)
 
+# Analytical tools
+Exploratory data analysis, Basic statistics, chi-square test, two-sample t-test, ANOVA and correlation
 
+# Summary, Conclusion and Recommendation
+Analysis revealed key insights into some of the reasons why customers churned. This include age, payment method, contract duration, total charges, internet services, and tech support services. 
+
+The highest churners included junior citizens, customers who paid via electronic check, had a monthly contract and spent most times seeking Tech support.
+
+Recommendations include creating promotional offers and tailoring them to meet individual needs, providing loyalty programs for long term customers, offering competitive pricing, creating more values added service, introducing a Customer Satisfaction Survey (CSAT) to understand customers’ needs and improve services accordingly. 
